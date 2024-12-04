@@ -1,0 +1,8 @@
+ECS-Elastic container service.3
+
+Basics of ECS
+
+There are three parts in ECS
+
+Cluster -In that one cluster we will run multiple service
+

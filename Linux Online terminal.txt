@@ -1,0 +1,4 @@
+Online terminal for linux
+https://cocalc.com/projects/6e7192b6-fe79-45c3-bac7-5d4ced48e49d/files/2024-09-23-file-1.term
+
+https://labex.io/labs/linux-your-first-linux-lab-270253?course=quick-start-with-linux

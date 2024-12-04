@@ -1,0 +1,33 @@
+Kubernetes
+
+Application architecture:(Facebook/HDFC)
+
+1Tier--Webserver--Static content--HTML
+2Tier--WebserveR(HTML)+DATABASE
+3Tier--Webserver(HTML)+APPSERVER(Dynamic Content)+DATABASE+USER DATA
+
+K8S-Launched by google created by Go Language.
+Orchestration tool
+
+Management and Monitering
+It will Hvaing master node and Worker Node
+
+Master Node--Components
+4-Components-Controller Manager -API SERVER -SCHEDULER -ETCD
+
+Worker Nodes-Components-T3 Medium(2 gb memory and 1.5 cpu memory)
+KUBELET-KUBE PROXY-POD -CONTAINERS
+
+Worker Node is a EC2 Instance
+
+
+
+
+ 
+
+
+
+
+
+
+

@@ -1,0 +1,72 @@
+Extras for Security & Performance:
+
+1.GuardDuty (Threat Detection)-Protect data from s3 bucket.
+
+2.CloudFormation/Terraform (Infrastructure Management)-
+
+
+Cloud Formation-Application Engg-IAAC
+______________________________________
+
+IAAC -Infrastructure as a Code.
+
+In real time we have use 100 server in oraganization.If we want confire and integration in server it will take 
+3-6 Days.If we want code deploy in all server it will take more time.So that we need automation.
+
+Developer Friendly Service.
+
+Code (Jason , Yaml)--->Cloud Engineering.
+
+Time, cost , Effort --->Devops
+
+In devops terraform.--Is a open source tool.
+
+Management and governance -->Cloud foramtion.
+ 
+or else we can use terraform
+
+Terraform ---Configuration automation
+
+What is conficuration automation
+
+--Confircuration-Install/Start/RUN
+--Automation? Automatic -No manual Intervention
+IAAC-Infrastructe as a code 
+
+same like cloud formation
+
+Stack-Emvironment If run script it will automatically create an instance.
+
+APP-Server /Storage/Network/Database/Loadbalncer/Username and password/AS.
+
+AWS-EC2/S3/VPC/ROUTE53/RDS/ELB/IAM/ASG-- Developer create a code for this it will create a environment.
+
+WE CAN USE ANSIBLE AND TERRAFORM.
+
+Ansible application configuration.
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
